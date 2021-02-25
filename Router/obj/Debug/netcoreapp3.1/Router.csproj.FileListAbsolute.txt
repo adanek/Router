@@ -1,0 +1,13 @@
+C:\Users\Andreas\Source\Repos\Router\Router\bin\Debug\netcoreapp3.1\Router.exe
+C:\Users\Andreas\Source\Repos\Router\Router\bin\Debug\netcoreapp3.1\Router.deps.json
+C:\Users\Andreas\Source\Repos\Router\Router\bin\Debug\netcoreapp3.1\Router.runtimeconfig.json
+C:\Users\Andreas\Source\Repos\Router\Router\bin\Debug\netcoreapp3.1\Router.runtimeconfig.dev.json
+C:\Users\Andreas\Source\Repos\Router\Router\bin\Debug\netcoreapp3.1\Router.dll
+C:\Users\Andreas\Source\Repos\Router\Router\bin\Debug\netcoreapp3.1\Router.pdb
+C:\Users\Andreas\Source\Repos\Router\Router\obj\Debug\netcoreapp3.1\Router.csprojAssemblyReference.cache
+C:\Users\Andreas\Source\Repos\Router\Router\obj\Debug\netcoreapp3.1\Router.AssemblyInfoInputs.cache
+C:\Users\Andreas\Source\Repos\Router\Router\obj\Debug\netcoreapp3.1\Router.AssemblyInfo.cs
+C:\Users\Andreas\Source\Repos\Router\Router\obj\Debug\netcoreapp3.1\Router.dll
+C:\Users\Andreas\Source\Repos\Router\Router\obj\Debug\netcoreapp3.1\Router.pdb
+C:\Users\Andreas\Source\Repos\Router\Router\obj\Debug\netcoreapp3.1\Router.genruntimeconfig.cache
+C:\Users\Andreas\Source\Repos\Router\Router\obj\Debug\netcoreapp3.1\Router.csproj.CoreCompileInputs.cache
